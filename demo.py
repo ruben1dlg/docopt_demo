@@ -1,4 +1,4 @@
-# author: Tiffany Timbers
+# author: Ruben De la Garza
 # date: 2020-01-15
 
 """This script prints out docopt args.
